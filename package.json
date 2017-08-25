@@ -1,0 +1,16 @@
+{
+  "author": "Rudigo",
+  "name": "firebasedb",
+  "version": "0.0.0",
+  "description": "Firebase database library - a node js wrapper around the Firebase Database API. Coming soon.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "https://github.com/ThisIsRudigo/firebasedb.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+  }
+}
